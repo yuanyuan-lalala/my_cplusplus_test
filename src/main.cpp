@@ -9,8 +9,8 @@
 
 
 int main(){
-    B example;
-    example.fun1();    
+    // B example;
+    // example.fun1();    
     
     return 0;
 }

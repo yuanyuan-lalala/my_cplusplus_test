@@ -11,6 +11,8 @@
 int main(){
     // B example;
     // example.fun1();    
-    
+    A exampleA;
+    // B* exampleB = &exampleA;错误
+    // B& exampleB_plus = exampleA;错误 
     return 0;
 }
